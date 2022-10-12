@@ -1,42 +1,24 @@
 {
 	"songs": [
 		[
-			"house",
+			"splitathon",
 			"dave",
 			[
-				0,
+				66,
 				113,
 				253
-			]
-		],
-		[
-			"insanity",
-			"dave",
-			[
-				0,
-				113,
-				253
-			]
-		],
-		[
-			"polygonized",
-			"3d_dave",
-			[
-				255,
-				100,
-				180
 			]
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "DaveHouse",
-	"difficulties": "hard",
+	"weekBackground": "splitathon",
+	"difficulties": "Normal",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "dave's fun rapping battle!",
+	"storyName": "the finale.",
 	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,

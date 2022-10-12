@@ -1,0 +1,76 @@
+{
+	"songs": [
+		[
+			"old-house",
+			"dave",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"old-insanity",
+			"dave",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"old-splitathon",
+			"dave",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"old-blocked",
+			"bambi",
+			[
+				0,
+				255,
+				15
+			]
+		],
+		[
+			"old-corn-theft",
+			"bambi",
+			[
+				0,
+				255,
+				15
+			]
+		],
+		[
+			"beta-maze",
+			"bambi",
+			[
+				0,
+				255,
+				15
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

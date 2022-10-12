@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"mealie",
+			"bambi",
+			[
+				0,
+				255,
+				33
+			]
+		],
+		[
+			"bonus-song",
+			"dave",
+			[
+				26,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

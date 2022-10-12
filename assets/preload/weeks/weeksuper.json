@@ -1,49 +1,40 @@
 {
 	"songs": [
 		[
-			"house",
-			"dave",
+			"supernovae",
+			"sus_bambi",
 			[
 				0,
-				113,
-				253
-			]
-		],
-		[
-			"insanity",
-			"dave",
-			[
-				0,
-				113,
-				253
-			]
-		],
-		[
-			"polygonized",
-			"3d_dave",
-			[
 				255,
-				100,
-				180
+				15
+			]
+		],
+		[
+			"glitch",
+			"sus_bambi",
+			[
+				0,
+				255,
+				15
 			]
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "DaveHouse",
+	"weekBackground": "stage",
 	"difficulties": "hard",
 	"weekCharacters": [
-		"",
-		"",
-		""
+		"dad",
+		"bf",
+		"gf"
 	],
-	"storyName": "dave's fun rapping battle!",
+	"storyName": "Your New Week",
 	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"weekBefore": "tutorial",
 	"startUnlocked": true
 }

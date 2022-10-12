@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"blocked",
+			"bambi",
+			[
+				86,
+				253,
+				55
+			]
+		],
+		[
+			"corn theft",
+			"bambi",
+			[
+				86,
+				253,
+				55
+			]
+		],
+		[
+			"maze",
+			"bambi",
+			[
+				86,
+				253,
+				55
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "farmyard",
+	"difficulties": "",
+	"weekCharacters": [
+		"bambi",
+		"bf",
+		"gf"
+	],
+	"storyName": "bambi 3.0 fanmade week leak for moy port of dnb 3.0",
+	"weekName": "bambi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
