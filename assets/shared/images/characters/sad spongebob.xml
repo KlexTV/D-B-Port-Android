@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sad spongebob.png"><SubTexture name="sad spongebob idle0000" x="0" y="1641" width="669" height="666" frameX="-584" frameY="-23" frameWidth="1851" frameHeight="720" />
+<SubTexture name="sad spongebob down0000" x="669" y="1641" width="1182" height="483" frameX="-283" frameY="-347" frameWidth="1800" frameHeight="900" />
+<SubTexture name="sad spongebob down0001" x="2424" y="805" width="883" height="724" frameX="-460" frameY="-106" frameWidth="1800" frameHeight="900" />
+<SubTexture name="sad spongebob left0000" x="1260" y="0" width="1164" height="815" frameX="-145" frameY="-15" frameWidth="1800" frameHeight="900" />
+<SubTexture name="sad spongebob left0001" x="1245" y="827" width="870" height="809" frameX="-439" frameY="-21" frameWidth="1800" frameHeight="900" />
+<SubTexture name="sad spongebob right0000" x="2424" y="0" width="945" height="805" frameX="-522" frameY="-25" frameWidth="1800" frameHeight="900" />
+<SubTexture name="sad spongebob right0001" x="0" y="827" width="1245" height="814" frameX="-522" frameY="-16" frameWidth="1800" frameHeight="900" />
+<SubTexture name="sad spongebob up0000" x="735" y="0" width="525" height="826" frameX="-668" frameY="0" frameWidth="1800" frameHeight="900" />
+<SubTexture name="sad spongebob up0001" x="0" y="0" width="735" height="827" frameX="-574" frameY="-4" frameWidth="1800" frameHeight="900" />
+</TextureAtlas>
