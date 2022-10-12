@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "scared",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "what",
+			"fps": 24,
+			"name": "what",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"fps": 24,
+			"name": "happy",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dave splitithon",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "dave",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		95,
+		255
+	],
+	"camera_position": [
+		-20,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

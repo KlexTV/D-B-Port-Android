@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ugly dave idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ugly dave down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ugly dave up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ugly dave right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ugly dave left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ugly dave",
+	"position": [
+		-1050,
+		-250
+	],
+	"healthicon": "uglydave",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		640,
+		440
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

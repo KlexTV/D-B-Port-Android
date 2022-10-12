@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-86
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-107
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-126
+			],
+			"anim": "singRIGHT",
+			"fps": 25,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "spawns in",
+			"fps": 24,
+			"name": "CUTSCENE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-222,
+				-107
+			],
+			"anim": "fuck",
+			"fps": 24,
+			"name": "FUCK",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bandu_origin",
+	"position": [
+		-280,
+		-380
+	],
+	"healthicon": "origin",
+	"flip_x": false,
+	"healthbar_colors": [
+		134,
+		161,
+		90
+	],
+	"camera_position": [
+		-150,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DaveAngry Sing Note UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DaveAngry Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DaveAngry idle dance"
+		},
+		{
+			"offsets": [
+				0,
+				-47
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DaveAngry Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				-66
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "DaveAngry Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/local_disabled_man_regains_control_of_his_legs_after_turning_3d",
+	"position": [
+		-80,
+		-190
+	],
+	"healthicon": "3d_dave",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		180,
+		207
+	],
+	"camera_position": [
+		-110,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

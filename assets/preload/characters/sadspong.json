@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sad spongebob idle"
+		},
+		{
+			"offsets": [
+				44,
+				107
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sad spongebob left"
+		},
+		{
+			"offsets": [
+				0,
+				109
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sad spongebob down"
+		},
+		{
+			"offsets": [
+				29,
+				110
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sad spongebob up"
+		},
+		{
+			"offsets": [
+				-48,
+				109
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sad spongebob right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sad spongebob",
+	"position": [
+		-610,
+		90
+	],
+	"healthicon": "sadspong",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		220,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

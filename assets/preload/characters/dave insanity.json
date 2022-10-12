@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "crazyidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "crazyleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "crazydown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "crazyup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "crazyright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dave insanity",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "dave",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		95,
+		255
+	],
+	"camera_position": [
+		-20,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}
