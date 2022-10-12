@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 4,
+		"stage": "cheater",
+		"player1": "bf",
+		"player2": "3d bambi",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cheating Notes",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 125,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Cheating"
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "3d_bamb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why you press 7 the keyboard? You cheat! You cheater!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "3d_bamb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Whatchu mean?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Where even are we?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "3d_bamb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You try to filming?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what"
+		},
+		{
+			"speed": 0.015,
+			"portrait": "3d_bamb",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I BLOCK YOU, I BREAK YOU ARE NOTES!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "3d_bamb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now you never survive this!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't be so sure, my boyfriend can survive ANYTHING!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "*beeps in agreement*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "3d_bamb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AUGH, shut up with your lovey dovey bullshit!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ugh, let's just get on with this."
+		}
+	]
+}
